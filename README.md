@@ -1,1 +1,1 @@
-FlaskBlog
+flaskblog
